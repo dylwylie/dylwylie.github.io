@@ -66,6 +66,7 @@ of the published port from any swarm node.
 Inside a Jenkinsfile this might look something like
 
 ```
+{% raw %}
 def get_port_from_swarm(String service_name){
 
     def swarm_manager = 'ssh -o StrictHostKeyChecking=no -l $USER $SWARM_HOST '
@@ -80,4 +81,5 @@ def get_port_from_swarm(String service_name){
     }
     return port
 }
+{% endraw %}
 ```
