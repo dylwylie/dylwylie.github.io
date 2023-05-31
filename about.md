@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[me@dylanwylie.com](mailto:me@dylanwylie.com)
+[https://www.linkedin.com/in/dylanjwylie/](https://www.linkedin.com/in/dylanjwylie/)
